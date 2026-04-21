@@ -1,6 +1,6 @@
 # 👋 Chandan Kumar
 
-**Senior SDET · Playwright (TypeScript) · Test Architecture · CI/CD**  
+**Senior SDET · Playwright (TypeScript) · Selenium (Java) · CI/CD**  
 📍 Noida, India · 📧 chandan.kumar1504@outlook.in  
 🔗 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-qa) · 💻 [GitHub](https://github.com/chandankumar-qa-ai)
 
