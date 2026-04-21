@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandan Kumar
 
-🚀 Senior SDET | Playwright (TypeScript) | UI & API Automation | CI/CD  
+🚀 Senior SDET | Playwright (TypeScript) | UI & API Automation | Selenium | CI/CD | Test Architecture  
 
 📍 Noida, India  
 📫 chandan.kumar1504@outlook.in  
@@ -11,16 +11,16 @@
 
 ## 💡 About Me
 
-Senior SDET with 11+ years of experience in software testing, including 6+ years in automation.
+Senior SDET with 11+ years of experience, including 6+ years in automation, currently focused on building **scalable, production-grade automation frameworks** using Playwright (TypeScript).
 
-Currently building scalable UI & API automation frameworks using **Playwright (TypeScript)** with strong focus on reliability, speed, and maintainability.
+I work at the intersection of **test engineering, system design, and CI/CD**, ensuring fast, reliable, and maintainable automation for complex applications.
 
-✔ Built automation frameworks from scratch  
-✔ Increased automation coverage to ~75%  
-✔ Reduced regression time from **45 mins → 12 mins (~73% improvement)**  
-✔ Strong experience integrating automation into CI/CD pipelines  
+✔ Designed and built automation frameworks from scratch  
+✔ Reduced regression time from **45 mins → 12 mins (~73% faster)**  
+✔ Increased automation coverage to **~75% across critical workflows**  
+✔ Integrated automation into CI/CD pipelines with quality gates  
 
-I specialize in designing automation strategies across UI & API layers and making practical trade-offs to keep test suites fast and stable.
+Strong focus on **test reliability, execution speed, and real-world problem solving (flaky tests, async systems, unstable environments).**
 
 ---
 
@@ -35,8 +35,8 @@ TypeScript, JavaScript (ES6+), Java
 **API Testing:**  
 Playwright API, Rest Assured, Postman  
 
-**Framework Design:**  
-POM, Hybrid Framework, Data-Driven Testing, Reusable Utilities  
+**Framework & Design:**  
+Page Object Model (POM), Fixture-based architecture, Data-driven testing, Reusable utilities  
 
 **CI/CD & DevOps:**  
 GitHub Actions, Jenkins, Git  
@@ -44,8 +44,8 @@ GitHub Actions, Jenkins, Git
 **Reporting & Tools:**  
 Allure Reports, Extent Reports, JIRA  
 
-**Cloud:**  
-GCP, AWS
+**Cloud & Others:**  
+GCP, AWS (Exposure), Docker (Basic), BDD (Cucumber - Exposure)  
 
 ---
 
@@ -55,36 +55,47 @@ GCP, AWS
 
 🔗 https://github.com/chandankumar-qa-ai  
 
-A production-grade Playwright automation framework designed for scalability and maintainability.
+A **production-grade automation framework** designed to handle real-world testing challenges at scale.
 
-**Key Highlights:**
+### Key Capabilities:
 - UI + API automation using Playwright (TypeScript)
-- Fixture-based architecture with reusable components
-- Page Object Model (POM) design
-- Parallel execution & cross-browser support
+- Fixture-based architecture for scalability
+- Page Object Model (POM) for maintainability
+- Parallel execution for faster feedback cycles
+- Cross-browser testing (Chromium, Firefox, WebKit)
 - Network interception & smart waits for stability
-- Integrated with GitHub Actions (CI pipeline)
-- Allure reporting for test insights
+- Retry logic for flaky test handling
+- CI/CD integration using GitHub Actions
+- Allure reporting for actionable insights
 
 ---
 
-## 📊 Key Achievements
+## 📊 Impact & Achievements
 
-- 🚀 Reduced regression execution time by ~73% using parallel execution  
-- 📈 Increased automation coverage to ~75% across critical workflows  
-- 🧩 Stabilized flaky tests by improving locator strategies & sync mechanisms  
-- ⚙️ Integrated automation into CI/CD pipelines with quality gates  
-- 👨‍🏫 Mentored team members on automation best practices & framework usage  
+- 🚀 Reduced regression cycle time by ~73% using parallel execution & optimized design  
+- 📈 Increased automation coverage to ~75% for critical business flows  
+- 🧩 Reduced flaky test failures by ~30% through better synchronization & locator strategies  
+- ⚙️ Integrated automation into CI/CD pipelines with automated quality checks  
+- 👨‍🏫 Mentored team members on framework design & automation best practices  
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 Engineering Focus Areas
 
-- Scalable test framework design  
-- Balancing UI vs API automation (Test Pyramid approach)  
-- Reducing flaky tests and improving reliability  
-- Faster feedback cycles via CI/CD  
-- Real-world automation problems (not just scripts)  
+- Designing scalable automation frameworks  
+- Applying **test pyramid strategy (UI vs API balance)**  
+- Reducing flaky tests in dynamic & async systems  
+- Improving feedback cycles using CI/CD  
+- Solving real-world automation challenges beyond basic scripting  
+
+---
+
+## 📌 What Makes My Work Different
+
+- I focus on **automation as an engineering problem**, not just test scripts  
+- I design frameworks that teams can **scale and maintain long-term**  
+- I prioritize **execution speed + stability**, not just coverage  
+- I make **practical trade-offs between UI and API automation**  
 
 ---
 
@@ -94,7 +105,18 @@ A production-grade Playwright automation framework designed for scalability and 
 - Email: chandan.kumar1504@outlook.in  
 
 ---
+---
+
+## ⭐ Support
+
+If you find this repository useful:
+
+- ⭐ Star the repo  
+- 🍴 Fork it for your own learning  
+- 📢 Share with others in the QA/Automation community  
+
+Your support helps improve and maintain this project.
 
 ## ⚡ Fun Fact
 
-I enjoy solving real-world automation challenges like flaky tests, unstable environments, and CI failures — the kind that actually impact release quality.
+I enjoy debugging flaky tests and CI failures — because fixing them actually improves real product quality.
