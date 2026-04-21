@@ -1,122 +1,78 @@
-# 👋 Hi, I'm Chandan Kumar
+# 👋 Chandan Kumar
 
-🚀 Senior SDET | Playwright (TypeScript) | UI & API Automation | Selenium | CI/CD | Test Architecture  
-
-📍 Noida, India  
-📫 chandan.kumar1504@outlook.in  
-🔗 https://www.linkedin.com/in/chandan-kumar-qa  
-💻 https://github.com/chandankumar-qa-ai  
+**Senior SDET · Playwright (TypeScript) · Test Architecture · CI/CD**  
+📍 Noida, India · 📧 chandan.kumar1504@outlook.in  
+🔗 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-qa) · 💻 [GitHub](https://github.com/chandankumar-qa-ai)
 
 ---
 
-## 💡 About Me
+## About
 
-Senior SDET with 11+ years of experience, including 6+ years in automation, currently focused on building **scalable, production-grade automation frameworks** using Playwright (TypeScript).
+Senior SDET with 11+ years of experience, including 6+ in automation. I specialise in designing **scalable, maintainable test infrastructure** — from framework architecture and CI/CD integration to flaky test elimination and team enablement.
 
-I work at the intersection of **test engineering, system design, and CI/CD**, ensuring fast, reliable, and maintainable automation for complex applications.
-
-✔ Designed and built automation frameworks from scratch  
-✔ Reduced regression time from **45 mins → 12 mins (~73% faster)**  
-✔ Increased automation coverage to **~75% across critical workflows**  
-✔ Integrated automation into CI/CD pipelines with quality gates  
-
-Strong focus on **test reliability, execution speed, and real-world problem solving (flaky tests, async systems, unstable environments).**
+My current stack is **Playwright (TypeScript)** for both UI and API automation, with a strong emphasis on fixture-based architecture, parallel execution, and deterministic test runs.
 
 ---
 
-## 🛠 Tech Stack
+## Engineering impact
 
-**Automation:**  
-Playwright (TypeScript), Selenium WebDriver (Java)
+**Regression speed**  
+Reduced cycle time by ~73% (45 min → 12 min) through parallel execution and optimised test architecture — not just running tests faster, but designing them to be independent and parallelisable from the start.
 
-**Programming:**  
-TypeScript, JavaScript (ES6+), Java  
+**Automation coverage**  
+Scaled to ~75% coverage across critical workflows, with coverage mapped to business risk rather than arbitrary targets. UI automation balanced with API-layer tests following test pyramid principles.
 
-**API Testing:**  
-Playwright API, Rest Assured, Postman  
+**Flaky test elimination**  
+Systematically resolved flaky tests through improved synchronisation strategies, resilient locator design, and targeted retry logic — resulting in stable, trustworthy CI pipelines.
 
-**Framework & Design:**  
-Page Object Model (POM), Fixture-based architecture, Data-driven testing, Reusable utilities  
+**CI/CD integration**  
+Automated quality gates embedded in GitHub Actions and Jenkins pipelines, giving teams immediate feedback on every commit.
 
-**CI/CD & DevOps:**  
-GitHub Actions, Jenkins, Git  
-
-**Reporting & Tools:**  
-Allure Reports, Extent Reports, JIRA  
-
-**Cloud & Others:**  
-GCP, AWS (Exposure), Docker (Basic), BDD (Cucumber - Exposure)  
+**Team enablement**  
+Mentored engineers on framework design patterns, test architecture decisions, and automation best practices.
 
 ---
 
-## 🚀 Featured Project
+## Tech stack
 
-### 🔹 Enterprise Playwright UI + API Automation Framework
-
-🔗 https://github.com/chandankumar-qa-ai  
-
-A **production-grade automation framework** designed to handle real-world testing challenges at scale.
-
-### Key Capabilities:
-- UI + API automation using Playwright (TypeScript)
-- Fixture-based architecture for scalability
-- Page Object Model (POM) for maintainability
-- Parallel execution for faster feedback cycles
-- Cross-browser testing (Chromium, Firefox, WebKit)
-- Network interception & smart waits for stability
-- Retry logic for flaky test handling
-- CI/CD integration using GitHub Actions
-- Allure reporting for actionable insights
+| Layer | Tools |
+|---|---|
+| UI automation | Playwright (TypeScript), Selenium WebDriver (Java) |
+| API testing | Playwright API, Rest Assured, Postman |
+| Languages | TypeScript, JavaScript (ES6+), Java |
+| Framework design | POM, fixture architecture, data-driven, reusable utilities |
+| CI/CD | GitHub Actions, Jenkins, Git |
+| Reporting | Allure Reports, Extent Reports |
+| Cloud | GCP, AWS (exposure), Docker (basic) |
 
 ---
 
-## 📊 Impact & Achievements
+## Featured project — Enterprise Playwright Framework
 
-- 🚀 Reduced regression cycle time by ~73% using parallel execution & optimized design  
-- 📈 Increased automation coverage to ~75% for critical business flows  
-- 🧩 Reduced flaky test failures by ~30% through better synchronization & locator strategies  
-- ⚙️ Integrated automation into CI/CD pipelines with automated quality checks  
-- 👨‍🏫 Mentored team members on framework design & automation best practices  
+🔗 [github.com/chandankumar-qa-ai](https://github.com/chandankumar-qa-ai)
 
----
+A full-stack automation framework built to reflect real enterprise constraints — designed for teams, not solo use.
 
-## 🧠 Engineering Focus Areas
+**Architecture decisions worth noting:**
+- Fixture-based design over global setup/teardown for better isolation and parallelism
+- POM kept thin — business logic lives in test files, not page objects
+- API tests co-located with UI tests for unified reporting and shared utilities
+- Network interception used for test stability in async-heavy flows, not just mock data
+- Retry logic scoped to known-flaky external dependencies, not applied globally
 
-- Designing scalable automation frameworks  
-- Applying **test pyramid strategy (UI vs API balance)**  
-- Reducing flaky tests in dynamic & async systems  
-- Improving feedback cycles using CI/CD  
-- Solving real-world automation challenges beyond basic scripting  
+**CI/CD:** GitHub Actions with Allure reporting on every run
 
 ---
 
-## 📌 What Makes My Work Different
+## Engineering philosophy
 
-- I focus on **automation as an engineering problem**, not just test scripts  
-- I design frameworks that teams can **scale and maintain long-term**  
-- I prioritize **execution speed + stability**, not just coverage  
-- I make **practical trade-offs between UI and API automation**  
+Automation is an engineering problem, not a scripting task.
 
----
-
-## 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/chandan-kumar-qa  
-- Email: chandan.kumar1504@outlook.in  
+- Frameworks should be **owned by the whole team** — readable, debuggable, and evolvable without the original author
+- **Stability before coverage** — a suite that flakes undermines trust in the entire pipeline
+- **API vs UI balance matters** — I apply the test pyramid intentionally, not by convention
+- **CI/CD is the delivery mechanism** — automation that doesn't run on every commit doesn't provide real value
 
 ---
----
 
-## ⭐ Support
-
-If you find this repository useful:
-
-- ⭐ Star the repo  
-- 🍴 Fork it for your own learning  
-- 📢 Share with others in the QA/Automation community  
-
-Your support helps improve and maintain this project.
-
-## ⚡ Fun Fact
-
-I enjoy debugging flaky tests and CI failures — because fixing them actually improves real product quality.
+📩 Open to **Senior SDET / Lead SDET** opportunities · Technical discussions welcome before any formal process
