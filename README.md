@@ -45,7 +45,7 @@ GitHub Actions, Jenkins, Git
 Allure Reports, Extent Reports, JIRA  
 
 **Cloud:**  
-GCP, AWS (Exposure)  
+GCP, AWS
 
 ---
 
